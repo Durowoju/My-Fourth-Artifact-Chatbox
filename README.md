@@ -1,6 +1,6 @@
 # My-Fourth-Artifact-Chatbox
 ---
-title: "Artifact 4 – AI Leadership & Ethical Awareness"
+"Artifact 4 – AI Leadership & Ethical Awareness"
 description: "A reflective artifact on navigating human bias as a leader in AI and Data Analytics."
 ---
 
