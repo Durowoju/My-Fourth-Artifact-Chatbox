@@ -5,7 +5,9 @@ description: "A reflective artifact on navigating human bias as a leader in AI a
 ---
 
 <p align="center">
-  <img src="./ethics-banner.png" alt="AI Ethics & Leadership Banner" width="900">
+  <img src="./ethics-banner.png" 
+    alt="AI Ethics & Leadership Banner" 
+    width="900">
 </p>
 
 <h1 align="center">AI Leadership & Ethical Awareness</h1>
